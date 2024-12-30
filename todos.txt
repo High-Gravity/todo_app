@@ -1,3 +1,6 @@
 Code some more
 Clean room
 Do laundry
+skip
+run
+jump
